@@ -67,7 +67,7 @@ xcb = ["xcffib (>=0.3.2)"]
 
 [[package]]
 name = "cairosvg"
-version = "2.5.0"
+version = "2.5.1"
 description = "A Simple SVG Converter based on Cairo"
 category = "main"
 optional = false
@@ -760,8 +760,8 @@ cairocffi = [
     {file = "cairocffi-1.2.0.tar.gz", hash = "sha256:9a979b500c64c8179fec286f337e8fe644eca2f2cd05860ce0b62d25f22ea140"},
 ]
 cairosvg = [
-    {file = "CairoSVG-2.5.0-py3-none-any.whl", hash = "sha256:cf1d8dcba8984ce46ddfecf5bb4768b4bdd86577873470ccb798cba0b024b842"},
-    {file = "CairoSVG-2.5.0.tar.gz", hash = "sha256:3fc50d10f0cbef53b3ee376a97a88d81bbd9e2f190f7e63de08431a1a08e9afa"},
+    {file = "CairoSVG-2.5.1-py3-none-any.whl", hash = "sha256:f1ff02625520493eafb5695d987f69544555524bb0f95695b9ddd3f9dc7d29d5"},
+    {file = "CairoSVG-2.5.1.tar.gz", hash = "sha256:bfa0deea7fa0b9b2f29e41b747a915c249dbca731a4667c2917e47ff96e773e0"},
 ]
 certifi = [
     {file = "certifi-2020.12.5-py2.py3-none-any.whl", hash = "sha256:719a74fb9e33b9bd44cc7f3a8d94bc35e4049deebe19ba7d8e108280cfd59830"},
@@ -1138,6 +1138,8 @@ pyyaml = [
     {file = "PyYAML-5.3.1-cp37-cp37m-win_amd64.whl", hash = "sha256:73f099454b799e05e5ab51423c7bcf361c58d3206fa7b0d555426b1f4d9a3eaf"},
     {file = "PyYAML-5.3.1-cp38-cp38-win32.whl", hash = "sha256:06a0d7ba600ce0b2d2fe2e78453a470b5a6e000a985dd4a4e54e436cc36b0e97"},
     {file = "PyYAML-5.3.1-cp38-cp38-win_amd64.whl", hash = "sha256:95f71d2af0ff4227885f7a6605c37fd53d3a106fcab511b8860ecca9fcf400ee"},
+    {file = "PyYAML-5.3.1-cp39-cp39-win32.whl", hash = "sha256:ad9c67312c84def58f3c04504727ca879cb0013b2517c85a9a253f0cb6380c0a"},
+    {file = "PyYAML-5.3.1-cp39-cp39-win_amd64.whl", hash = "sha256:6034f55dab5fea9e53f436aa68fa3ace2634918e8b5994d82f3621c04ff5ed2e"},
     {file = "PyYAML-5.3.1.tar.gz", hash = "sha256:b8eac752c5e14d3eca0e6dd9199cd627518cb5ec06add0de9d32baeee6fe645d"},
 ]
 requests = [
